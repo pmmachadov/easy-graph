@@ -119,5 +119,3 @@ src/
 [MIT](LICENSE) © Pablo Machado
 
 ---
-
-<p align="center">Hecho con 💜 y mucho café</p>
